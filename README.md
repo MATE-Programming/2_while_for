@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/3_Lists/blob/main/lab_3.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/2_while_for/blob/main/lab_2.svg?raw=true)
 # Практическое задание на тему Листы
 
 #### 1. Напишите программу для удаление дубликатов из списка
