@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_2.svg)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/2_while_for/blob/main/lab_2.svg)
 # Практическое задание на тему Циклы.
 
 #### 1. Создайте программу, которая получает числа от пользователя и печатает в консоли до тех пор, пока пользователь не введет число 0.
